@@ -1,0 +1,6 @@
+region: us-east-1
+ami_id: ami-0c2b8ca1dad447f8a  # Ubuntu AMI
+key_pair: your-key-name
+instance_type: t2.micro
+security_group: your-sg-name
+subnet_id: subnet-xxxxxxx
